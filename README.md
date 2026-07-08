@@ -2,7 +2,7 @@
 
 A single-page personal portfolio website showcasing my education, skills, projects, and certifications.
 
-🔗 **Live Site:** [unrivaled-daifuku-47ce04.netlify.app](https://bidyadhar-jena-portfolio.netlify.app/)
+🔗 **Live Site:** [bidyadhar-jena-portfolio.netlify.app](https://bidyadhar-jena-portfolio.netlify.app/)
 
 ## About
 
